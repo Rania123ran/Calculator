@@ -1,2 +1,2 @@
-![Aperçu de la calculatrice](screens/Screen1.png)
+<img src="images/capture1.png" alt="Aperçu" width="400"/>
 ![Aperçu de la calculatrice](screens/Screen2.png)
